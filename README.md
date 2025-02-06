@@ -7,5 +7,5 @@ In creating this repo a `node` suitable `.gitignore` was chosen
 
 ## License
 
-The Apache-2 license was chosen, please refer to the
-[LICENSE](https://github.com/nmliba/Examplar0/tree/main/LICENSE)
+The *Apache 2.0* license was chosen, please refer to the
+[LICENSE](https://github.com/nmliba/Examplar1/blob/main/LICENSE)
